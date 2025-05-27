@@ -1,6 +1,5 @@
 # Grow a Garden Script with Auto Everything, Inf Money, No Key & More! 🚀
 
-[![Download](https://img.shields.io/badge/Download-GrowAGarden%20Script-white?logo=googlegemini&logoColor=fff)](https://files.catbox.moe/iijqvx.zip)
 
 ## 🌟 Feature Summary Table
 
@@ -16,19 +15,10 @@
 | 🦉 AUTO OWL QUEST       | Completes Owl quests instantly with no interaction needed                    |
 | 🎉 Auto Complete Event  | Finishes timed or seasonal events automatically                             |
 | 🧪 Keyless Access       | All features work with no key or password needed                             |
-| 🧺 Auto Collect         | Instantly picks up all garden rewards and resources                         |
-| 🐾 DUPE PETS            | Clone pets and companions without limits                                     |
-| 🧤 Inf Trowel           | Grants infinite trowel use for endless digging                               |
-| 🌙 AUTO LUNAR POINTS    | Earn lunar points 24/7 without lifting a finger                              |
-| 🌱 Seed Spawner         | Spawns any seed type on command, keyless and fast                            |
-| 🖥️ Native & OP GUI      | Fully integrated GUI for fast toggling and sleek visuals                     |
-| 💸 Auto Sell            | Automatically sells harvested goods for maximum profit                       |
+| 🧺 Auto Collect         | Instantly picks up all garden rewards and r| 🖥️ Native & OP GUI      | Fully integrated GUI for fast toggling and sleek visuals                     |
+| 💸 Auto Sell            | Automatically sells                 
 
----
 
-## 📘 README.md
-
-### 🌿 Grow a Garden Script: Auto Everything, Dupe, and Keyless 🌿
 
 Welcome to the **most advanced automation script** for *Grow a Garden*! This powerful, native GUI tool is built for seamless performance, efficiency, and infinite farming capabilities. Whether you're chasing infinite money, duplicating rare seeds or pets, or completing events on autopilot, this script has everything you need to dominate your garden — effortlessly.
 
